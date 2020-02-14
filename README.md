@@ -1,1 +1,1 @@
-# t3hReactJS
+# repo buổi học đầu tiên tại T3H
